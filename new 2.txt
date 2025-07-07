@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>My First Website Created At Home</title>
+	</head>
+	<body>
+		<h2>Welcome The Website</h2>
+		<p>Hello, this was created in August 26th, 2023.</p>
+		<p> There are time this project of mine was postponed for a while.</p>
+		
+	</body>
+</html>
+

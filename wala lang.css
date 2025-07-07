@@ -1,0 +1,17 @@
+body {
+	background-color: beige;
+}
+
+table, th, td {
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid darkred;
+	padding: 200;
+	text-align: center;
+}
+
+table {
+	width: 80%;
+	height: 80%;
+}
+

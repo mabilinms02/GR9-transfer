@@ -1,0 +1,29 @@
+body {
+	background-color: lavender;
+}
+h1, h2, h3, h4, h5, h6 {
+	background-color: azure;
+	width: 1.25%;
+}
+p.one {
+	background-color: floralwhite;
+	width: 1.25%;
+}
+table {
+	border-color: red;
+
+}
+th {
+	color: pink;
+}
+td {
+	color: plum;
+}
+
+h1.una {
+	background-color: lavender;
+}
+pre {
+	font-size: 125%;
+	font-weight: bold;
+}
